@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pet-appointment/static/css/main.2d4086ee.css",
+    "main.js": "/pet-appointment/static/js/main.1418a467.js",
+    "index.html": "/pet-appointment/index.html",
+    "main.2d4086ee.css.map": "/pet-appointment/static/css/main.2d4086ee.css.map",
+    "main.1418a467.js.map": "/pet-appointment/static/js/main.1418a467.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d4086ee.css",
+    "static/js/main.1418a467.js"
+  ]
+}
